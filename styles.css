@@ -1,0 +1,11 @@
+.daysInMonth {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.outerDiv {
+    display: flex;
+    gap: 5px;
+    width: 25vw;
+    justify-content: space-evenly;
+}
